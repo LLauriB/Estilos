@@ -1,0 +1,28 @@
+h1{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   color: aqua;
+    background-color: black;
+    padding: 30px;
+    margin: 10px;
+}
+span{
+    color: rgb(253, 248, 248);
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-style: italic;
+    color: white;
+    background-color: rebeccapurple;
+    padding: 20px;
+    margin: 10px;
+}
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    text-decoration: underline;
+    color: rgb(32, 32, 97);
+    background-color: rgb(145, 169, 219);
+    padding: 10px;
+    margin: 10px;
+}
